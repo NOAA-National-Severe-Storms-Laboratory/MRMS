@@ -9,11 +9,10 @@ MRMS is a system with fully-automated algorithms that quickly and intelligently 
 ## Purpose
 - To act as a sub-organization to organize MRMS specific code repositories.
 - To give FAQs on working with and commiting with MRMS code.
-- To provide scripts and tutorials for working and compiling MRMS code.
+- To provide help, scripts and tutorials for working and compiling MRMS code.
+- Note: This is not meant for large files or private code.
 
 The main MRMS project general webpage can be found here : [MRMS - NOAA NSSL](https://www.nssl.noaa.gov/projects/mrms/)
-
-(Note: You have to belong to the NSSL organization to access private repos)
 
 ## Public Repositories
 - [RAPIO](https://github.com/retoomey/RAPIO) - An algorithm framework for designing MRMS algorithms in C++ and Python.
@@ -21,6 +20,7 @@ The main MRMS project general webpage can be found here : [MRMS - NOAA NSSL](htt
 - [MRMS Data Processing](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-data-processing) - Some Python scripts to process MRMS events.
 
 ## Private Repositories
+(Note: You have to be added as a contributer (and use github 2FA) to access private repos)
 - [MRMS wdssii temporary testing repo](https://github.com/NOAA-National-Severe-Storms-Laboratory/mrms-wdssii-test) - A temp port of SVN to GIT for testing user ability to use before we shut down the SVN forever.
 
 
