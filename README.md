@@ -16,7 +16,7 @@ The main MRMS project general webpage can be found here : [MRMS - NOAA NSSL](htt
 
 ## Public Repositories
 - [MRMS Builder](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-Builder) - A collection of scripts for building parts of MRMS.
-- [RAPIO](https://github.com/retoomey/RAPIO) - An algorithm framework for designing MRMS algorithms in C++ and Python.
+- [RAPIO](https://github.com/retoomey/RAPIO) - An algorithm framework for designing realtime algorithms in C++ and Python.
 - [MRMS Support Repository](https://github.com/NOAA-National-Severe-Storms-Laboratory/mrms-support) - This is a collection of support documents and code shared with MRMS users by NSSL. 
 - [MRMS Data Processing](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-data-processing) - Some Python scripts to process MRMS events.
 
@@ -25,7 +25,6 @@ The main MRMS project general webpage can be found here : [MRMS - NOAA NSSL](htt
 - [MRMS WDSSII](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-WDSSII) - WDSSII
 - [MRMS hydro](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-hydro) - Hydro
 - [MRMS config](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config) - Configuration files and custom scripts for various real-time systems
-  
-- [MRMS wdssii temporary testing repo](https://github.com/NOAA-National-Severe-Storms-Laboratory/mrms-wdssii-test) - A temp port of SVN to GIT for testing user ability to use before we shut down the SVN forever.
+- [MRMS config AWSDEV](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-AWSDEV) - Configuration files and custom scripts for various real-time systems (AWSDEV)
 
 
