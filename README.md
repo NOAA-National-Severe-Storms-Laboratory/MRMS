@@ -26,5 +26,5 @@ The main MRMS project general webpage can be found here : [MRMS - NOAA NSSL](htt
 - [MRMS hydro](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-hydro) - Hydro
 - [MRMS-scripts](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-scripts) - Custom scripts for various real-time systems
 - [MRMS-config-AWSDEV](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-AWSDEV) - Configuration files for the AWSDEV real-time system
-- [MRMS-config-AWSX](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-AWSX) - Configuration files for the AWSX real-time system
+- [MRMS-config-AWSEXP](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-AWSEXP) - Configuration files for the AWSEXP real-time system
 - [MRMS-config-NSSL](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-NSSL) - Configuration files for the NSSL real-time system
