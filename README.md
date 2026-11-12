@@ -29,3 +29,4 @@ The main MRMS project general webpage can be found here : [MRMS - NOAA NSSL](htt
 - [MRMS-config-AWSDEV](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-AWSDEV) - Configuration files for the AWSDEV real-time system
 - [MRMS-config-AWSEXP](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-AWSEXP) - Configuration files for the AWSEXP real-time system
 - [MRMS-config-NSSL](https://github.com/NOAA-National-Severe-Storms-Laboratory/MRMS-config-NSSL) - Configuration files for the NSSL real-time system
+- [RAPIO_Internal](https://github.com/NOAA-National-Severe-Storms-Laboratory/RAPIO_internal) - RAPIO style algorithms private to NSSL
